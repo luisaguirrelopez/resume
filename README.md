@@ -95,4 +95,7 @@ Internship
 - [SEMARNAT (2021). Program of Action for Conservation of Zacatuche (Romerolagus diazi), SEMARNAT/CONANP, Mexico.](https://www.gob.mx/conanp/documentos/programa-de-accion-para-la-conservacion-de-la-especie-pace-zacatuche-romerolagus-diazi-actualizado)
 - Species Distribution Models; Ecological Niche; and Factors linked to biodiversity. Environmental heterogeneity in Escalante, T.; Morrone J. J.; and García-Trejo E. On develop. Manual of biogeography practices. Project PAPIME PE203920 (DGAPA, UNAM)
 
+## Languages <br>
+- **Spanish**: Native
+- **English**: High Intermediate
 _Work in progress_
