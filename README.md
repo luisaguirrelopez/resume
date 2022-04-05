@@ -15,6 +15,15 @@ _Ecologist based in Tallahassee, Florida_ <br>
 ### Bachelor in Biology 2010-2016 <br>
 [University of Oviedo](https://www.uniovi.es/) - Oviedo, Asturias, España
 
+#### Extracurricular courses
+- [Data Carpentry Workshop: Genomics](https://annajiat.github.io/2021-06-28-fsu-online/) (2021), online<br>
+16 hours
+- Wallace, a modular software for monitoring species distributions: tour of the workflow and extending functionality with custom R functions (2019), at Quito, Ecuador<br>
+4 hours
+- Workshop: Photo-trapping R (2017), at BUAP in Puebla, Mexico<br>
+30 hours
+
+
 ## Academic awards <br>
 
 - **[UROP](https://cre.fsu.edu/undergradresearch/urop) mentorship grant**, 2020 <br>
