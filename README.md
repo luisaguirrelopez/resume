@@ -37,4 +37,20 @@ at [Nevsehir University](https://www.nevsehir.edu.tr/en) (Nevsehir, Turkey)
 
 ## Participation in congresses and symposia <br>
 
+- **[IBS](https://www.biogeography.org/) [2019](https://www.biogeography.org/meetings/ecuador-2019/) Humboldt Meeting & 2nd Latin American Biogeography Meeting** <br>
+at Quito, Ecuador.
+
+Oral presentation: Conservation priorities for _Romerolagus diazi_ based on species distribution models including biotic interactions
+
+- **XIV Nnational Congress of [Mammalogy](http://www.mastozoologiamexicana.com/)** <br>
+at Merida, Mexico.
+
+Photo-trapping contest & lab students advising 
+
+- **VIII Iztaccihuatl-Popocatepetl National Park Research Symposium** <br>
+at State of Mexico, Mexico.
+
+Poster presentation: Studies of the ecology and geographical distribution of mammals in the Iztaccihuatl-Popocatepetl National Park
+
+
 _Work in progress_
