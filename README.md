@@ -98,4 +98,4 @@ Internship
 ## Languages <br>
 - **Spanish**: Native
 - **English**: High Intermediate
-_Work in progress_
+
