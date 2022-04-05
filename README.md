@@ -3,7 +3,7 @@
 _Ecologist based in Tallahassee, Florida_ <br>
 
 [Email](mailto:laguirrelopez@fsu.edu) / [Website](none)  / [GitHub](https://github.com/luisaguirrelopez/) / [Twitter](https://twitter.com/sit_on_thefloor/) 
-
+<img src = "/assets/logo.png
 ## Academic development <br>
 
 ### PhD in Geography 2021-to present <br>
