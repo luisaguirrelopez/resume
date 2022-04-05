@@ -52,5 +52,26 @@ at State of Mexico, Mexico.
 
 Poster presentation: Studies of the ecology and geographical distribution of mammals in the Iztaccihuatl-Popocatepetl National Park
 
+## Work experience <br>
+### Research
+- Department of [Geography](https://geography.fsu.edu/), FSU
+2021-2022
+Research Assistant
+
+- Project PAPIIT IN217717 - Systematic conservation planning in the Transmexican Volcanic Belt
+2017-2019
+Fieldwork coordinator
+
+### Teaching
+- Department of [Geography](https://geography.fsu.edu/), FSU
+2022-to present
+
+Courses taught: World Geography
+
+### Others
+- Taxus S. L., 2014<br>
+Internship
+- Faunastur S. L., 2014<br>
+Internship
 
 _Work in progress_
