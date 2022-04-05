@@ -7,13 +7,13 @@ _Ecologist based in Tallahassee, Florida_ <br>
 ## Academic development <br>
 
 ### PhD in Geography 2021-to present <br>
-[Florida State University](https://www.fsu.edu/) - Tallahassee, Florida, USA
+> [Florida State University](https://www.fsu.edu/) - Tallahassee, Florida, USA
 
 ### Master in Biological Sciences 2017-2020 <br>
-[UNAM](https://www.unam.mx/) - Mexico City, Mexico
+>[UNAM](https://www.unam.mx/) - Mexico City, Mexico
 
 ### Bachelor in Biology 2010-2016 <br>
-[University of Oviedo](https://www.uniovi.es/) - Oviedo, Asturias, España
+>[University of Oviedo](https://www.uniovi.es/) - Oviedo, Asturias, España
 
 #### Extracurricular courses
 - [Data Carpentry Workshop: Genomics](https://annajiat.github.io/2021-06-28-fsu-online/) (2021), online<br>
@@ -51,7 +51,7 @@ at Quito, Ecuador.
 
 Oral presentation: Conservation priorities for _Romerolagus diazi_ based on species distribution models including biotic interactions
 
-- **XIV Nnational Congress of [Mammalogy](http://www.mastozoologiamexicana.com/)** <br>
+- **XIV National Congress of [Mammalogy](http://www.mastozoologiamexicana.com/)** <br>
 at Merida, Mexico.
 
 Photo-trapping contest & lab students advising 
