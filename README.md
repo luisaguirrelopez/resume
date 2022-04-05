@@ -63,18 +63,17 @@ Poster presentation: Studies of the ecology and geographical distribution of mam
 
 ## Work experience <br>
 ### Research
-- Department of [Geography](https://geography.fsu.edu/), FSU
-2021-2022
+- Department of [Geography](https://geography.fsu.edu/), FSU<br>
+2021-2022<br>
 Research Assistant
 
-- Project PAPIIT IN217717 - Systematic conservation planning in the Transmexican Volcanic Belt
-2017-2019
+- Project PAPIIT IN217717 - Systematic conservation planning in the Transmexican Volcanic Belt<br>
+2017-2019<br>
 Fieldwork coordinator
 
 ### Teaching
-- Department of [Geography](https://geography.fsu.edu/), FSU
-2022-to present
-
+- Department of [Geography](https://geography.fsu.edu/), FSU<br>
+2022-to present<br>
 Courses taught: World Geography
 
 ### Others
