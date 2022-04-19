@@ -3,7 +3,7 @@
 
 _Ecologist based in Tallahassee, Florida_ <br>
 
-[Email](mailto:laguirrelopez@fsu.edu) / [Website](none)  / [GitHub](https://github.com/luisaguirrelopez/) / [Twitter](https://twitter.com/sit_on_thefloor/) 
+[Email](mailto:laguirrelopez@fsu.edu) / [Website](https://aguirrelopez.com)  / [GitHub](https://github.com/luisaguirrelopez/) / [Twitter](https://twitter.com/aguirrelopezLJ/) 
 
 ## Academic development <br>
 
