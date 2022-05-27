@@ -24,6 +24,9 @@ _Ecologist based in Tallahassee, Florida_ <br>
 - Workshop: Photo-trapping R (2017), at BUAP in Puebla, Mexico<br>
 30 hours
 
+#### Continuing Education Units (CEU) 
+- Working with the IACUC (2022) on the AALAS Learning Library<br>
+1.5 CEUs
 
 ## Academic awards <br>
 
