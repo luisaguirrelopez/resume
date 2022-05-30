@@ -29,6 +29,8 @@ _Ecologist based in Tallahassee, Florida_ <br>
 1.5 CEUs
 - Introduction to Amphibians (2022) on the AALAS Learning Library<br>
 1.5 CEUs
+- Introduction to Wildlife (2022) on the AALAS Learning Library<br>
+1.5 CEUs
 
 ## Academic awards <br>
 
