@@ -85,7 +85,7 @@ Fieldwork coordinator
 Courses taught: World Geography
 
 - [University of Notre Dame Environmental Research Center](https://underc.nd.edu/underc-east/)<br>
-2022 (summer)
+2022 (summer)<br>
 Teaching Assistant: [Practicum in Field Environmental Biology](https://underc.nd.edu/education/)
 
 ### Others
