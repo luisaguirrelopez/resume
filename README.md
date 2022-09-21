@@ -108,7 +108,7 @@ Internship
 - Species Distribution Models; Ecological Niche; and Factors linked to biodiversity. Environmental heterogeneity in Escalante, T.; Morrone J. J.; and García-Trejo E. On develop. Manual of biogeography practices. Project PAPIME PE203920 (DGAPA, UNAM)
 
 ### Peer-reviewer<br> 
--BMC Plant Biology
+- BMC Plant Biology
 
 ## Memberships<br>
 - [Asociación Mexicana de Mastozoología A. C. (AMMAC)](http://www.mastozoologiamexicana.com/) (2022)
