@@ -115,5 +115,5 @@ Internship
 
 ## Languages <br>
 - **Spanish**: Native
-- **English**: High Intermediate
+- **English**: High 
 
