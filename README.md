@@ -72,7 +72,7 @@ Poster presentation: Studies of the ecology and geographical distribution of mam
 ## Work experience <br>
 ### Research
 - Department of [Geography](https://geography.fsu.edu/), FSU<br>
-2021-2022<br>
+2021-2022, 2023-now<br>
 Research Assistant
 
 - Project PAPIIT IN217717 - Systematic conservation planning in the Transmexican Volcanic Belt<br>
@@ -81,12 +81,12 @@ Fieldwork coordinator
 
 ### Teaching
 - Department of [Geography](https://geography.fsu.edu/), FSU<br>
-2022-to present<br>
+2022-2023<br>
 **Teaching Assistant**: World Geography (Spring '22)<br>
-**Instructor**: World Geography (Summer '22), Landscape Ecology (Fall '22)
+**Instructor**: World Geography (Summer '22, Summer '23), Landscape Ecology (Fall '22)
 
 - [University of Notre Dame Environmental Research Center](https://underc.nd.edu/underc-east/)<br>
-2022 (summer)<br>
+2022 and 2023 (summer)<br>
 Teaching Assistant: [Practicum in Field Environmental Biology](https://underc.nd.edu/education/)
 
 ### Others
@@ -98,6 +98,8 @@ Internship
 ## Publications <br>
 
 - [Aguirre-López, L. J., & Escalante, T. (2021). Use of distribution models in the conservation of a Mexican endemic lagomorph. THERYA, 12(3), 571.](http://www.revistas-conacyt.unam.mx/therya/index.php/THERYA/article/view/1088)
+
+- Feng, X., Peterson, A. T., Aguirre-López, L. J., Burger, J., Chen, X., Papeş, M. (In review). Rethinking ecological niches and geographic distributions in face of pervasive human influence in the Anthropocene. Biological Reviews.
 
 ### Scientific dissemination <br>
 - [Aguirre-López, L. J., Espiritu-Guerrero, P. C., & Escalante, T. (2021). Conejo entre volcanes. ¿Cómo ves?, 273, 28-31.](http://www.comoves.unam.mx/numeros/indice/273)
