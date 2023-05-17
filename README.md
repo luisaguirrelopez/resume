@@ -34,7 +34,7 @@ _Ecologist based in Tallahassee, Florida_ <br>
 
 ## Academic awards <br>
 
-- **[UROP](https://cre.fsu.edu/undergradresearch/urop) mentorship grant**, 2020 <br>
+- **[UROP](https://cre.fsu.edu/undergradresearch/urop) mentorship grant**, 2022 <br>
 for the mentorship of two undergraduate students.
 
 - **Honorific mention**, 2020 <br>
