@@ -82,7 +82,8 @@ Fieldwork coordinator
 ### Teaching
 - Department of [Geography](https://geography.fsu.edu/), FSU<br>
 2022-2023<br>
-**Teaching Assistant**: World Geography (Spring '22), Physical Geography (Summer '23)<br>
+**Teaching Assistant**: World Geography (Spring '22), Physical Geography (Summer '23), Environmental Science (Fall '23)<br>
+
 **Instructor**: World Geography (Summer '22, Summer '23), Landscape Ecology (Fall '22)
 
 - [University of Notre Dame Environmental Research Center](https://underc.nd.edu/underc-east/)<br>
